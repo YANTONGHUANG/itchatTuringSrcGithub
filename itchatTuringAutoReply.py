@@ -1,3 +1,7 @@
+'''
+基于itchat和Turing机器人API接口，实现微信自动回复功能
+'''
+
 import itchat
 from itchat.content import *
 import mTuring

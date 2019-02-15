@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+'''
+基于itchat调用实现撤回消息的监测和撤回内容的提醒
+'''
 import os
 import re
 import shutil
